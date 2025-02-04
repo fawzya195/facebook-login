@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:#f2f4f7;
+}
+  /* start header section */
+.header-home{
+    width:70%;
+   margin: auto;
+    margin-top: 150px;
+}
+/* end header section */
+
+  /* start right part */
+
+.right-said{
+    float: right;  
+}
+
+.right-said form{
+   background: white;
+   width: 400px;
+   text-align: center;
+   padding: 0px  13px ;
+   padding-top: 20px;
+   box-shadow: 2px 2px 7px rgb(190, 190, 190) ,  -2px -2px 7px rgb(190, 190, 190) ;
+  
+}
+.right-said input{
+    width: 95%;
+    margin: auto;
+    display: inline-block;
+  margin-bottom: 10px;
+  border: 1px solid rgb(216, 214, 214);
+    height: 40px;
+   padding: 7px ;
+   color:gray;
+   border-radius: 6px;
+   letter-spacing: 1px;
+   font-size: 18px;
+    
+
+}
+
+
+.right-said input:nth-of-type(3)
+{
+    font-size: 20px;
+    font-weight:bold;
+    color: white;
+    background-color:#1877f2;
+    border: none;
+    width:100%;
+    padding: px 0 ;
+    height: 50px;
+   
+}
+
+
+.right-said a{
+    text-decoration: none;
+display: inline-block;
+    margin-top: 10px;
+    margin-bottom:20px;
+     font-size: 18px;
+     letter-spacing: 1px;
+    
+    
+}
+
+.right-said a:nth-of-type(2){
+    background:#42b72a ;
+    color: white;
+    font-size: 20px;
+    font-weight:bold;
+   padding: 10px;
+   border-radius: 6px;
+     margin-top: 15px;
+  
+
+}
+
+/* start left part */
+
+.left-said{
+    float: left;
+   
+}
+.left-said  h2{
+    
+   
+  color:#1877f2;
+  font-size: 50px;
+  font-weight: 800px;
+  letter-spacing: 1px;
+
+}
+.left-said p{
+   
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    letter-spacing: 1px;
+   
+   
+    
+
+}
+
